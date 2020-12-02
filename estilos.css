@@ -1,0 +1,34 @@
+body{ 
+    background-color:#373A36; 
+    text-align: center;
+    color: #E6E2DD;
+}
+
+a{
+    color: #E6E2DD;
+    font-size: 20px;    
+    text-decoration: none;
+}
+
+table {
+  border-spacing: 10px;
+}
+
+#editar {
+    color: black;
+}
+
+#navbar {
+    background-color: #D48166;
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+#login-form{ 
+
+background:#373A36; 
+border: 3 px solid #eeeee; 
+padding:9px 9px;
+ width:300px; 
+ border-radius:5px; 
+}
